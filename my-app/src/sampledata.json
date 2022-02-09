@@ -1,0 +1,14 @@
+[
+    {
+      "uid": 1,
+      "commitId": "ea312d0e44d08a603935b8b926eea76e4ed0e266",
+      "content": "Running CI pipeline...\nCompiling maven project...\n[INFO] Scanning for projects...\n[INFO] ------------------------------------------------------------------------\n[INFO] BUILD FAILURE\n[INFO] ------------------------------------------------------------------------\n[INFO] Total time:  0.093 s\n[INFO] Finished at: 2022-02-08T23:01:28Z\n[INFO] ------------------------------------------------------------------------\n[ERROR] The goal you specified requires a project to execute but there is no POM in this directory (/opt/ci-repos/2022-02-08-23-01-20). Please verify you invoked Maven from the correct directory. -> [Help 1]\n[ERROR] \n[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.\n[ERROR] Re-run Maven using the -X switch to enable full debug logging.\n[ERROR] \n[ERROR] For more information about the errors and possible solutions, please read the following articles:\n[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException\n",
+      "timestamp": "2022-02-08T23:01:19.41531297Z"
+    },
+    {
+      "uid": 2,
+      "commitId": "ea312d0e44d08a603935b8b926eea76e4ed0e266",
+      "content": "Running CI pipeline...\nCompiling maven project...\n[INFO] Scanning for projects...\n[INFO] ------------------------------------------------------------------------\n[INFO] BUILD FAILURE\n[INFO] ------------------------------------------------------------------------\n[INFO] Total time:  0.099 s\n[INFO] Finished at: 2022-02-08T23:12:41Z\n[INFO] ------------------------------------------------------------------------\n[ERROR] The goal you specified requires a project to execute but there is no POM in this directory (/opt/ci-repos/2022-02-08-23-12-38). Please verify you invoked Maven from the correct directory. -> [Help 1]\n[ERROR] \n[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.\n[ERROR] Re-run Maven using the -X switch to enable full debug logging.\n[ERROR] \n[ERROR] For more information about the errors and possible solutions, please read the following articles:\n[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException\n",
+      "timestamp": "2022-02-08T23:12:37.409244505Z"
+    }
+  ]

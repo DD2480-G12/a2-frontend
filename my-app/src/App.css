@@ -1,0 +1,26 @@
+.App {
+
+}
+
+.sides{
+  display: inline-block;
+}
+
+table, th, td{
+  border: 1px solid black;
+}
+
+table{
+  table-layout: fixed;
+  width: 100%;
+}
+
+th, td{
+  word-wrap: break-word;
+}
+#left{
+  width: 49%;
+}
+#right{
+  width: 49%;
+}
